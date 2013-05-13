@@ -7,10 +7,10 @@ drwxr-xr-x  83 root root 12288 May 13 13:22 etc
 lrwxrwxrwx   1 root root     5 Nov  5  2012 home -> /usr2
 dr-xr-xr-x  14 root root  4096 Mar 14 14:23 iceng
 drwxr-xr-x  11 root root  4096 Nov  6  2012 lib
-drwxr-xr-x   8 root root  4096 Nov  6  2012 lib64
-drwxr-xr-x   3 root root  4096 Nov  5  2012 local
-drwx------   2 root root 16384 Nov  5  2012 lost+found
-drwxr-xr-x   2 root root  4096 Oct  1  2009 media
+drwxr-xr-x   8 root root  4096 Nov  6  2012 lib641
+drwxr-xr-x   3 root root  4096 Nov  5  2012 local1
+drwx------   2 root root 16384 Nov  5  2012 lost+found1
+drwxr-xr-x   2 root root  4096 Oct  1  2009 media1
 drwxr-xr-x   2 root root  4096 Jan 12  2012 misc
 drwxr-xr-x   2 root root  4096 Oct  1  2009 mnt
 -rw-r--r--   1 root bin      0 Nov  5  2012 nopage
