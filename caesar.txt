@@ -1,2 +1,3 @@
 Hello This is test GIT file
 This is new line
+Its the third line
