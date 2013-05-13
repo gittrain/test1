@@ -12,7 +12,7 @@ drwxr-xr-x   3 root root  4096 Nov  5  2012 local1
 drwx------   2 root root 16384 Nov  5  2012 lost+found1
 drwxr-xr-x   2 root root  4096 Oct  1  2009 media1
 drwxr-xr-x   2 root root  4096 Jan 12  2012 misc
-drwxr-xr-x   2 root root  4096 Oct  1  2009 mnt
+drwxr-xr-x   2 root root  4096 Oct  1  2009 mnt1
 -rw-r--r--   1 root bin      0 Nov  5  2012 nopage
 drwxr-xr-x   4 root root  4096 Nov  5  2012 opt
 lrwxrwxrwx   1 root root    24 Nov  5  2012 pkg -> /afs/gv/qclinux/@sys/pkg
